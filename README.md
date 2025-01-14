@@ -11,8 +11,11 @@ I used many tools to analyze overall data using powerbi.
 I mentioned Latest Month Wait List and previous year Latest Month Wait List in this project.
 I used slicer tool for Speciality_Name like "Anaesthetics" , "Breast Surgery" , "Cardiology" ,"Cardio_Thoracic Surgery" , "Clinical Immunology" and "Dental Surgery" .
 I added Average and Median buttons using calculation Method. 
+
+
 I performed many calculations : Sum of total by Archive_date and Case_Type for = Case_Type, Day Case, Inpatient
                                 Sum of total by Archive_date and Case_Type for = Outpatient
                                 Avg/Med Wait List by Case_Type
                                 Avg_Profile Wait List by Time_Bands and Age_Profile
+                                
 #PatientWaitList #PowerBI #DataAnalysis #Sum #Average #Median #Speciality_Name #Archive_Date
